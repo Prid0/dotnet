@@ -1,0 +1,10 @@
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.exe.config
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.exe
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.pdb
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.exe
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.pdb
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nimap\Desktop\C#\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\Serializ.46EF7B05.Up2Date

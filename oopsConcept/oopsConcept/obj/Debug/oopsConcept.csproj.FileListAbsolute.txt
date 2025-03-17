@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\bin\Debug\oopsConcept.exe.config
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\bin\Debug\oopsConcept.exe
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\bin\Debug\oopsConcept.pdb
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\obj\Debug\oopsConcept.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\obj\Debug\oopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\obj\Debug\oopsConcept.exe
+C:\Users\Nimap\Desktop\C#\oopsConcept\oopsConcept\obj\Debug\oopsConcept.pdb

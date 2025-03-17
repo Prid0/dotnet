@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\LambdaExpression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAE97CA-F701-4BF1-827E-CBB5EB2A4451}|LambdaExpression\\LambdaExpression.csproj|c:\\users\\nimap\\desktop\\c#\\lambdaexpression\\lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAE97CA-F701-4BF1-827E-CBB5EB2A4451}|LambdaExpression\\LambdaExpression.csproj|solutionrelative:lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 428,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\LambdaExpression\\LambdaExpression\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpression\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\LambdaExpression\\LambdaExpression\\Program.cs",
+              "RelativeToolTip": "LambdaExpression\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:52:23.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

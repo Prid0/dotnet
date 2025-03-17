@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\oopsConcept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FB0362-014F-447A-9F4A-1469E79BB4C5}|oopsConcept\\oopsConcept.csproj|c:\\users\\nimap\\desktop\\c#\\oopsconcept\\oopsconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FB0362-014F-447A-9F4A-1469E79BB4C5}|oopsConcept\\oopsConcept.csproj|solutionrelative:oopsconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\oopsConcept\\oopsConcept\\Program.cs",
+              "RelativeDocumentMoniker": "oopsConcept\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\oopsConcept\\oopsConcept\\Program.cs",
+              "RelativeToolTip": "oopsConcept\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:34:45.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

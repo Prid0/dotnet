@@ -1,0 +1,265 @@
+1. File.Create()
+This method creates a new file. If the file already exists, it will overwrite the existing file.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\newfile.txt";
+
+        // Creates a new file or overwrites an existing file
+        using (FileStream fs = File.Create(path))
+        {
+            Console.WriteLine("File created successfully!");
+        }
+    }
+}
+
+
+2. File.WriteAllText()
+This method writes text to a file. If the file already exists, it will overwrite the file. If the file doesn't exist, it will create a new one.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\example.txt";
+        string text = "Hello, this is a sample text file!";
+
+        // Write text to the file
+        File.WriteAllText(path, text);
+
+        Console.WriteLine("Text written to file successfully!");
+    }
+}
+
+
+3. File.AppendAllText()
+This method appends text to an existing file without overwriting it. If the file doesn’t exist, it creates a new one.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\sample.txt";
+        string text = "\nAppended text at the end.";
+
+        // Append text to the file
+        File.AppendAllText(path, text);
+
+        Console.WriteLine("Text appended to file successfully!");
+    }
+}
+
+
+4. File.ReadAllText()
+This method reads all the content from a file as a single string. If the file doesn’t exist, it throws an exception.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\example.txt";
+
+        // Read all text from the file
+        string content = File.ReadAllText(path);
+
+        Console.WriteLine("Content of the file:");
+        Console.WriteLine(content);
+    }
+}
+
+
+5. File.Exists()
+This method checks whether a file exists at a specified path. It returns true if the file exists and false otherwise.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\example.txt";
+
+        // Check if the file exists
+        if (File.Exists(path))
+        {
+            Console.WriteLine("The file exists!");
+        }
+        else
+        {
+            Console.WriteLine("The file does not exist.");
+        }
+    }
+}
+
+
+6. File.Delete()
+This method deletes a file from the disk. If the file doesn’t exist, it throws an exception.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\sample.txt";
+
+        // Delete the file
+        if (File.Exists(path))
+        {
+            File.Delete(path);
+            Console.WriteLine("File deleted successfully!");
+        }
+        else
+        {
+            Console.WriteLine("File does not exist!");
+        }
+    }
+}
+
+
+7. StreamReader and StreamWriter
+These are used for reading and writing files line by line.
+
+StreamReader - Reading File
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\example.txt";
+
+        // Use StreamReader to read the file
+        using (StreamReader reader = new StreamReader(path))
+        {
+            string content = reader.ReadToEnd(); // Read the entire file content
+            Console.WriteLine(content);
+        }
+    }
+}
+
+
+
+StreamWriter - Writing to a File
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = @"C:\Users\Nimap\Desktop\output.txt";
+
+        // Use StreamWriter to write to the file
+        using (StreamWriter writer = new StreamWriter(path))
+        {
+            writer.WriteLine("This is the first line.");
+            writer.WriteLine("This is the second line.");
+        }
+
+        Console.WriteLine("Text written successfully!");
+    }
+}
+
+
+8. File.Copy()
+This method copies a file from one location to another.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string sourcePath = @"C:\Users\Nimap\Desktop\example.txt";
+        string destPath = @"C:\Users\Nimap\Desktop\copy_example.txt";
+
+        // Copy the file to a new location
+        if (File.Exists(sourcePath))
+        {
+            File.Copy(sourcePath, destPath);
+            Console.WriteLine("File copied successfully!");
+        }
+        else
+        {
+            Console.WriteLine("Source file doesn't exist.");
+        }
+    }
+}
+
+
+9. File.Move()
+This method moves a file from one location to another, essentially renaming it.
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string sourcePath = @"C:\Users\Nimap\Desktop\example.txt";
+        string destPath = @"C:\Users\Nimap\Desktop\moved_example.txt";
+
+        // Move the file to a new location
+        if (File.Exists(sourcePath))
+        {
+            File.Move(sourcePath, destPath);
+            Console.WriteLine("File moved successfully!");
+        }
+        else
+        {
+            Console.WriteLine("Source file doesn't exist.");
+        }
+    }
+}
+
+
+Summary of Methods:       	Method Description
+File.Create()		Creates a new file or overwrites an existing file.
+File.WriteAllText()	Writes text to a file (overwrites existing content).
+File.AppendAllText()	Appends text to an existing file.
+File.ReadAllText()	Reads all text from a file.
+File.Exists()		Checks if a file exists at a specific path.
+File.Delete()		Deletes a file.
+StreamReader		Reads a file line by line or all content at once.
+StreamWriter		Writes to a file line by line or all content at once.
+File.Copy()		Copies a file from one location to another.
+File.Move()		Moves or renames a file.
+
+------Directory handling-------
+
+Method				Description
+CreateDirectory()	Creates a new directory.
+Delete()		Deletes a directory (can delete non-empty directories with true flag).
+Exists()		Checks if a directory exists.
+GetFiles()		Returns an array of file paths in a directory.
+GetDirectories()	Returns an array of subdirectory paths in a directory.
+GetParent()		Returns the parent directory of a specified path.
+Move()			Moves a directory to a new location.
+GetFileSystemEntries()	Returns all files and subdirectories in a directory.
+GetCreationTime()	Gets the creation time of a directory.
+SetCreationTime()	Sets the creation time of a directory.
+GetLastWriteTime()	Gets the last write (modification) time of a directory.
+SetLastWriteTime()	Sets the last write (modification) time of a directory.
+GetLogicalDrives()	Returns a list of logical drives (e.g., C:, D:, etc.).

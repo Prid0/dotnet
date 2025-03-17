@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\bin\Debug\EncsapsulationAndAbstract.exe.config
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\bin\Debug\EncsapsulationAndAbstract.exe
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\bin\Debug\EncsapsulationAndAbstract.pdb
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\obj\Debug\EncsapsulationAndAbstract.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\obj\Debug\EncsapsulationAndAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\obj\Debug\EncsapsulationAndAbstract.exe
+C:\Users\Nimap\Desktop\C#\EncsapsulationAndAbstract\EncsapsulationAndAbstract\obj\Debug\EncsapsulationAndAbstract.pdb

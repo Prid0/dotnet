@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\SerializationAndDeserialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4979397E-1691-467F-9A98-175B3EC3BD53}|SerializationAndDeserialization\\SerializationAndDeserialization.csproj|c:\\users\\nimap\\desktop\\c#\\serializationanddeserialization\\serializationanddeserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4979397E-1691-467F-9A98-175B3EC3BD53}|SerializationAndDeserialization\\SerializationAndDeserialization.csproj|solutionrelative:serializationanddeserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4979397E-1691-467F-9A98-175B3EC3BD53}|SerializationAndDeserialization\\SerializationAndDeserialization.csproj|C:\\Users\\Nimap\\Desktop\\C#\\SerializationAndDeserialization\\serializationanddeserialization\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4979397E-1691-467F-9A98-175B3EC3BD53}|SerializationAndDeserialization\\SerializationAndDeserialization.csproj|solutionrelative:serializationanddeserialization\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 428,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employeeData.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\SerializationAndDeserialization\\SerializationAndDeserialization\\employeeData.cs",
+              "RelativeDocumentMoniker": "SerializationAndDeserialization\\employeeData.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\SerializationAndDeserialization\\SerializationAndDeserialization\\employeeData.cs",
+              "RelativeToolTip": "SerializationAndDeserialization\\employeeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:58:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\SerializationAndDeserialization\\SerializationAndDeserialization\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationAndDeserialization\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\SerializationAndDeserialization\\SerializationAndDeserialization\\Program.cs",
+              "RelativeToolTip": "SerializationAndDeserialization\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwCsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:38:41.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
