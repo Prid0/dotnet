@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Nimap\Desktop\C#\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb

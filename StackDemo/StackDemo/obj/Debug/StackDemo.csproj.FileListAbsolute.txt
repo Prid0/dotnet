@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Nimap\Desktop\C#\StackDemo\StackDemo\obj\Debug\StackDemo.pdb

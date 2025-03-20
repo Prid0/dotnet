@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Egxercise1
 {
@@ -16,11 +18,15 @@ namespace Egxercise1
             //numberGussseingGame.numberGame();
             //reverseName.reverse_string();
             //sortValidNum.check_valid_number();
-            CheckConsecutiveNums.consecutivenums();
+            //CheckConsecutiveNums.consecutivenums();
             //validTimeChecker.chekTheTime();
             //Textconverter.textCapitalizer();
             //vowelCounter.countVowels();
-            Console.ReadKey();
+
+            int[] arr = { 3, 4, 6, 8, 9, 1, 12, 24 };
+            FindMissingNum.missingNum(arr);
+
+            Console.ReadKey(); 
         }
     }
 }
