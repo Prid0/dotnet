@@ -1,2 +1,7 @@
 C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\obj\Debug\Egxercise1.csproj.AssemblyReference.cache
 C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\obj\Debug\Egxercise1.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\bin\Debug\Egxercise1.exe.config
+C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\bin\Debug\Egxercise1.exe
+C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\bin\Debug\Egxercise1.pdb
+C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\obj\Debug\Egxercise1.exe
+C:\Users\Nimap\Desktop\C#\Egxercise1\Egxercise1\obj\Debug\Egxercise1.pdb

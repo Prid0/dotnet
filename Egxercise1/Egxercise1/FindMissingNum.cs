@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace Egxercise1
 {
@@ -8,25 +7,36 @@ namespace Egxercise1
     {
         public static void missingNum(int[] arr)
         {
+            if (arr.Length == 0)
+            {
+                Console.WriteLine("Array is empty.");
+                return;
+            }
+
+            HashSet<int> numSet = new HashSet<int>(arr);
             List<int> missingNum = new List<int>();
+
             Array.Sort(arr);
             int maxNum = arr[arr.Length - 1];
 
             Console.WriteLine($"Array length: {arr.Length}");
 
+
             for (int i = arr[0]; i <= maxNum; i++)
             {
-
-                if (!arr.Contains(i))
+                if (!numSet.Contains(i))
                 {
                     missingNum.Add(i);
                 }
             }
 
-            // Print the missing numbers
-            foreach (var num in missingNum)
+            if (missingNum.Count > 0)
             {
-                Console.Write(num + " ");
+                Console.WriteLine("Missing numbers: " + string.Join(" ", missingNum));
+            }
+            else
+            {
+                Console.WriteLine("No missing numbers.");
             }
         }
     }
