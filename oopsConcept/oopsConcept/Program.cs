@@ -38,6 +38,8 @@ namespace oopsConcept
             cat.sayname(username);
 
             cat.speacks();
+            Console.ReadLine()
+            
         }
     }
 }

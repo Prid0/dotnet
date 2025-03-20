@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\bin\Debug\DiamondProblem.exe.config
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\bin\Debug\DiamondProblem.exe
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\bin\Debug\DiamondProblem.pdb
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.exe
+C:\Users\Nimap\Desktop\C#\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.pdb

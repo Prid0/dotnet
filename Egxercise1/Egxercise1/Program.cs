@@ -23,7 +23,7 @@ namespace Egxercise1
             //Textconverter.textCapitalizer();
             //vowelCounter.countVowels();
 
-            int[] arr = { 3, 4, 6, 8, 9, 1, 12, 24 };
+            int[] arr = { 3, 4, 6, 8, 9, 1, 12, 15};
             FindMissingNum.missingNum(arr);
 
             Console.ReadKey(); 

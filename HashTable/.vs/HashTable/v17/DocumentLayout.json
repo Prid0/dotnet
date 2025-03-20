@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\HashTable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB34C6FB-4DF6-47F2-9186-25F1F1E9C796}|HashTable\\HashTable.csproj|c:\\users\\nimap\\desktop\\c#\\hashtable\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB34C6FB-4DF6-47F2-9186-25F1F1E9C796}|HashTable\\HashTable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\Desktop\\C#\\HashTable\\HashTable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HashTable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 428,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "HashTable\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\HashTable\\HashTable\\Program.cs",
               "RelativeToolTip": "HashTable\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T04:35:55.111Z",
               "EditorCaption": ""

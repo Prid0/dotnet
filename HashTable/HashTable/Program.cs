@@ -4,11 +4,14 @@ using System.Collections.Generic;
 
 namespace HashTable
 {
+
     class Program
     {
         static void Main(string[] args)
         {
+            
             List<Hashtable> emp_dat = new List<Hashtable>();
+
             Hashtable emp1 = new Hashtable()
             {
                 {"id",324 },
@@ -18,6 +21,7 @@ namespace HashTable
                 {"salary",20000.00 }
             };
             emp_dat.Add(emp1);
+
             Hashtable emp2 = new Hashtable()
              {
                 {"id",333 },

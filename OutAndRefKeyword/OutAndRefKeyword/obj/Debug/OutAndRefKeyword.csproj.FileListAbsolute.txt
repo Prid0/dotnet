@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\bin\Debug\OutAndRefKeyword.exe.config
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\bin\Debug\OutAndRefKeyword.exe
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\bin\Debug\OutAndRefKeyword.pdb
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\obj\Debug\OutAndRefKeyword.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\obj\Debug\OutAndRefKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\obj\Debug\OutAndRefKeyword.exe
+C:\Users\Nimap\Desktop\C#\OutAndRefKeyword\OutAndRefKeyword\obj\Debug\OutAndRefKeyword.pdb

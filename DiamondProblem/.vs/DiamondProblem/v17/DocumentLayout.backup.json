@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\DiamondProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\Desktop\\C#\\oopsConcept\\oopsConcept\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FF18BF-C15A-4B63-AA66-80FF232748A9}|DiamondProblem\\DiamondProblem.csproj|c:\\users\\nimap\\desktop\\c#\\diamondproblem\\diamondproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FF18BF-C15A-4B63-AA66-80FF232748A9}|DiamondProblem\\DiamondProblem.csproj|solutionrelative:diamondproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 428,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\oopsConcept\\oopsConcept\\Program.cs",
+              "RelativeDocumentMoniker": "..\\oopsConcept\\oopsConcept\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\oopsConcept\\oopsConcept\\Program.cs",
+              "RelativeToolTip": "..\\oopsConcept\\oopsConcept\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:42:35.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\DiamondProblem\\DiamondProblem\\Program.cs",
+              "RelativeDocumentMoniker": "DiamondProblem\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\DiamondProblem\\DiamondProblem\\Program.cs",
+              "RelativeToolTip": "DiamondProblem\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:04:09.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

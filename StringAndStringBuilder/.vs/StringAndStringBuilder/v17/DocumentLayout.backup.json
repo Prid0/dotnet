@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\StringAndStringBuilder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{269237F8-8D67-425E-8654-4D44D819BCD9}|StringAndStringBuilder\\StringAndStringBuilder.csproj|c:\\users\\nimap\\desktop\\c#\\stringandstringbuilder\\stringandstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269237F8-8D67-425E-8654-4D44D819BCD9}|StringAndStringBuilder\\StringAndStringBuilder.csproj|solutionrelative:stringandstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\Desktop\\C#\\StringAndStringBuilder\\StringAndStringBuilder\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringAndStringBuilder\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\Desktop\\C#\\StringAndStringBuilder\\StringAndStringBuilder\\StringAndStringBuilder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringAndStringBuilder\\StringAndStringBuilder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,27 @@
       "DocumentGroups": [
         {
           "DockedHeight": 428,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringAndStringBuilder.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\StringAndStringBuilder\\StringAndStringBuilder\\StringAndStringBuilder.csproj",
+              "RelativeDocumentMoniker": "StringAndStringBuilder\\StringAndStringBuilder.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StringAndStringBuilder\\StringAndStringBuilder\\StringAndStringBuilder.csproj",
+              "RelativeToolTip": "StringAndStringBuilder\\StringAndStringBuilder.csproj",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T05:41:37.503Z"
             },
             {
               "$type": "Document",
@@ -28,7 +48,7 @@
               "RelativeDocumentMoniker": "StringAndStringBuilder\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StringAndStringBuilder\\StringAndStringBuilder\\Program.cs",
               "RelativeToolTip": "StringAndStringBuilder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:11:44.558Z",
               "EditorCaption": ""
