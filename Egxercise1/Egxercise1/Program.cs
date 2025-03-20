@@ -4,11 +4,8 @@ namespace Egxercise1
 {
     partial class Program
     {
-
-
         static void Main(string[] args)
         {
-
             //CheckValidNumber.CheckValidNum();
             //findMaxNumber.maxNumber();
             //findMaxNumber2.findMaxNum2();
