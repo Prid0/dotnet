@@ -9,7 +9,7 @@ namespace Egxercise1
         {
             int len = 5;
             int num = len + 1;
-            var num_list = new List<int>();
+            List<int> num_list = new List<int>();
             while (len > 0)
             {
                 Console.Write($"enter the {num - len} numer : ");

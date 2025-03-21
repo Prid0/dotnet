@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|c:\\users\\nimap\\desktop\\c#\\egxercise1\\egxercise1\\findmissingnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:egxercise1\\findmissingnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|c:\\users\\nimap\\desktop\\c#\\egxercise1\\egxercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:egxercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|c:\\users\\nimap\\desktop\\c#\\egxercise1\\egxercise1\\findtheprimesuminrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:egxercise1\\findtheprimesuminrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\SumNumberClacuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:Egxercise1\\SumNumberClacuator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\sortValidNum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:Egxercise1\\sortValidNum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\reverseName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:Egxercise1\\reverseName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\FindMissingNum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8DF5DA-A07E-428F-B1E7-84241C757F5E}|Egxercise1\\Egxercise1.csproj|solutionrelative:Egxercise1\\FindMissingNum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FindMissingNum.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\FindMissingNum.cs",
-              "RelativeDocumentMoniker": "Egxercise1\\FindMissingNum.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\FindMissingNum.cs",
-              "RelativeToolTip": "Egxercise1\\FindMissingNum.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T05:11:41.708Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "findThePrimeSumInRange.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\findThePrimeSumInRange.cs",
+              "RelativeDocumentMoniker": "Egxercise1\\findThePrimeSumInRange.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\findThePrimeSumInRange.cs",
+              "RelativeToolTip": "Egxercise1\\findThePrimeSumInRange.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:09:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\Program.cs",
               "RelativeDocumentMoniker": "Egxercise1\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\Program.cs",
               "RelativeToolTip": "Egxercise1\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T05:10:02.005Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumNumberClacuator.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\SumNumberClacuator.cs",
+              "RelativeDocumentMoniker": "Egxercise1\\SumNumberClacuator.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\SumNumberClacuator.cs",
+              "RelativeToolTip": "Egxercise1\\SumNumberClacuator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:18:19.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sortValidNum.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\sortValidNum.cs",
+              "RelativeDocumentMoniker": "Egxercise1\\sortValidNum.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\sortValidNum.cs",
+              "RelativeToolTip": "Egxercise1\\sortValidNum.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:16:40.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reverseName.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\reverseName.cs",
+              "RelativeDocumentMoniker": "Egxercise1\\reverseName.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\reverseName.cs",
+              "RelativeToolTip": "Egxercise1\\reverseName.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:09:31.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FindMissingNum.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\FindMissingNum.cs",
+              "RelativeDocumentMoniker": "Egxercise1\\FindMissingNum.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\Egxercise1\\Egxercise1\\FindMissingNum.cs",
+              "RelativeToolTip": "Egxercise1\\FindMissingNum.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:11:41.708Z"
             }
           ]
         }
