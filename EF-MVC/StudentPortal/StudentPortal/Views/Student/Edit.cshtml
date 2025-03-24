@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model StudentPortal.Models.Entities.StudentIdentity
+
+
+<div class="container mt-5">
+    <h2>Add New Student</h2>
+    <form method="post">
+        <div class="form-group mt-3">
+        <label for="Id">Id</label>
+        <input type="text" class="form-control" id="Id" name="Id" asp-for="Id" readonly/>
+        </div>
+        <div class="form-group mt-3">
+            <label for="Name">Name</label>
+            <input type="text" class="form-control" id="Name" name="Name" placeholder="Enter student's name" required asp-for="Name" />
+        </div>
+        <div class="form-group mt-3">
+            <label for="Email">Email</label>
+            <input type="email" class="form-control" id="Email" name="Email" placeholder="Enter student's email" required asp-for="Email" />
+        </div>
+        <div class="form-group mt-3">
+            <label for="Phone">Phone</label>
+            <input type="text" class="form-control" id="Phone" name="Phone" placeholder="Enter student's phone number" required asp-for="Phone" />
+        </div>
+        <div class="form-group mt-3">
+            <label for="Subscrebed">Subscribed</label>
+            <div class="form-check">
+                <input type="checkbox" class="form-check-input" id="Subscrebed" name="Subscrebed" asp-for="Subscrebed" />
+                <label class="form-check-label" for="Subscrebed">Subscribe to newsletter</label>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary mt-4">Save</button>
+        <button type="submit" class="btn btn-danger mt-4" asp-controller="Student" asp-action="Delete">Delete</button>
+    </form>
+</div>
