@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\bin\Debug\EncapsulationDemo.exe.config
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\bin\Debug\EncapsulationDemo.exe
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\bin\Debug\EncapsulationDemo.pdb
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\obj\Debug\EncapsulationDemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\obj\Debug\EncapsulationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\obj\Debug\EncapsulationDemo.exe
+C:\Users\Nimap\Desktop\OOPS\EncapsulationDemo\EncapsulationDemo\obj\Debug\EncapsulationDemo.pdb

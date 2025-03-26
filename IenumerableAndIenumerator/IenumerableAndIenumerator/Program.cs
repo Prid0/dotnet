@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 
 namespace IenumerableAndIenumerator
 {
@@ -28,10 +29,15 @@ namespace IenumerableAndIenumerator
             //}
 
             IEnumerator<int> Ienumarat = numbers.GetEnumerator();
-            printfrom1to4(Ienumarat);
-
+            //printfrom1to4(Ienumarat);
+            while (Ienumarat.MoveNext())
+            {
+                Console.WriteLine(Ienumarat.Current);
+            }
+            Console.ReadKey();
 
         }
+
         static void printfrom1to4(IEnumerator<int> list)
         {
             while (list.MoveNext())
@@ -44,7 +50,7 @@ namespace IenumerableAndIenumerator
 
             }
         }
-
+        
         static void printafter4(IEnumerator<int> list)
         {
             while (list.MoveNext())
@@ -52,5 +58,7 @@ namespace IenumerableAndIenumerator
                 Console.WriteLine("after4 : " + list.Current.ToString());
             }
         }
+        
+       
     }
 }

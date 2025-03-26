@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Users\Nimap\Desktop\OOPS\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
