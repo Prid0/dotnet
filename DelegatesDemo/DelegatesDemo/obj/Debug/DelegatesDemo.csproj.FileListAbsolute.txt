@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\Users\Nimap\Desktop\C#\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

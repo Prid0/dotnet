@@ -30,7 +30,7 @@ namespace InterfaceDemo
         }
         public void wheels()
         {
-            Console.WriteLine("every car hav 2 wheels");
+            Console.WriteLine("every bike hav 2 wheels");
         }
     }
 
@@ -41,6 +41,7 @@ namespace InterfaceDemo
             Icar mybike = new mybike();
             mybike.engin("honda");
             mybike.wheels();
+            
         }
     }
 }
