@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "projectUniqueName": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
       "projectName": "StudentPortal",
-      "projectPath": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "projectPath": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
       "packagesPath": "C:\\Users\\Nimap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\obj\\",
+      "outputPath": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

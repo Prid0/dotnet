@@ -50,6 +50,7 @@
     <Compile Include="findMaxNumber2.cs" />
     <Compile Include="FindMissingNum.cs" />
     <Compile Include="findThePrimeSumInRange.cs" />
+    <Compile Include="IsAnagram.cs" />
     <Compile Include="numberGussseingGame.cs" />
     <Compile Include="Program.check_valin_number.cs" />
     <Compile Include="Program.cs" />

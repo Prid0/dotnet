@@ -14,8 +14,15 @@ namespace Egxercise1
                 var input = Console.ReadLine();
                 if (input.ToLower() == "ok")
                 {
+                    if (total == 0)
+                    {
+                    Console.WriteLine($"thanks for using!! but you did entered any number.");
+                    }
+                    else
+                    {
                     Console.WriteLine($"thanks for using!! and your current num is :{total}");
                     break;
+                    }
                 }
                 else
                 {

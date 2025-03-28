@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\StudentPortal",
-    "\\StudentPortal\\StudentPortal"
+    "\\StudentPortal\\StudentPortal",
+    "\\StudentPortal\\StudentPortal\\Controllers",
+    "\\StudentPortal\\StudentPortal\\Views"
   ],
-  "SelectedNode": "\\StudentPortal\\StudentPortal\\Program.cs",
+  "SelectedNode": "\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
   "PreviewInSolutionExplorer": false
 }

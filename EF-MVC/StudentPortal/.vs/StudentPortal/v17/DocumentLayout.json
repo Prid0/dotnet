@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\models\\entities\\studentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\models\\entities\\studentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\entities\\studentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\models\\addstudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\models\\addstudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\addstudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\ef-mvc\\studentportal\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|c:\\users\\nimap\\desktop\\c#\\ef-mvc\\studentportal\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5669A7E-AC73-43B9-ACDA-AD05EB670CC1}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,94 +58,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "StudentPortal\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T09:36:39.936Z",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "StudentPortal\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:31:10.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\List.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
-              "RelativeToolTip": "StudentPortal\\Views\\Student\\List.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T10:05:09.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T09:36:39.936Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StudentIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\Entities\\StudentIdentity.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Models\\Entities\\StudentIdentity.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\Entities\\StudentIdentity.cs",
-              "RelativeToolTip": "StudentPortal\\Models\\Entities\\StudentIdentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T09:44:51.927Z",
-              "EditorCaption": ""
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T10:05:09.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AddStudentView.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\AddStudentView.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Models\\AddStudentView.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\AddStudentView.cs",
-              "RelativeToolTip": "StudentPortal\\Models\\AddStudentView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "StudentIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\Entities\\StudentIdentity.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Entities\\StudentIdentity.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\Entities\\StudentIdentity.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Entities\\StudentIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T09:43:57.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T09:44:51.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "AddStudentView.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\AddStudentView.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\AddStudentView.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Models\\AddStudentView.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\AddStudentView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:43:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
               "RelativeToolTip": "StudentPortal\\Views\\Student\\Add.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T09:36:46.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T09:36:46.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentPortal\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T06:47:39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Program.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\EF-MVC\\StudentPortal\\StudentPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\EF-MVC\\StudentPortal\\StudentPortal\\Program.cs",
               "RelativeToolTip": "StudentPortal\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T05:23:51.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T05:23:51.041Z"
             }
           ]
         }
