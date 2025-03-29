@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CheckConsecutiveNums.cs" />
     <Compile Include="CountDevider.cs" />
+    <Compile Include="CountFrequency.cs" />
     <Compile Include="FactorialCalculator.cs" />
     <Compile Include="findMaxNumber.cs" />
     <Compile Include="findMaxNumber2.cs" />

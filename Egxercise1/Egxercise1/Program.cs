@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Egxercise1
 {
 
@@ -22,7 +23,9 @@ namespace Egxercise1
             //validTimeChecker.chekTheTime();
             //Textconverter.textCapitalizer();
             //vowelCounter.countVowels();
-            IsAnagram.AreAnagrams("tea", "emt");
+            //IsAnagram.AreAnagrams("tea", "emt");
+            CountFrequency.CountFrq("priyan vishwakarma");
+
 
             //int[] arr = { 3, 4, 6, 8, 9, 1, 12, 15};
             //FindMissingNum.missingNum(arr);
