@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "EmployeeCoreWebApi.Controllers.EmployeeApiController",
+    "Method": "getAllEmployee",
+    "RelativePath": "api/EmployeeApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCoreWebApi.Controllers.EmployeeApiController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/EmployeeApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emp",
+        "Type": "EmployeeCoreWebApi.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCoreWebApi.Controllers.EmployeeApiController",
+    "Method": "getEmplopyeeById",
+    "RelativePath": "api/EmployeeApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCoreWebApi.Controllers.EmployeeApiController",
+    "Method": "updateEmployee",
+    "RelativePath": "api/EmployeeApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "emp",
+        "Type": "EmployeeCoreWebApi.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCoreWebApi.Controllers.EmployeeApiController",
+    "Method": "deleteEmployee",
+    "RelativePath": "api/EmployeeApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|c:\\users\\nimap\\desktop\\c#\\studentcorewebapi\\studentcorewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|solutionrelative:studentcorewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|c:\\users\\nimap\\desktop\\c#\\studentcorewebapi\\studentcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|solutionrelative:studentcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|c:\\users\\nimap\\desktop\\c#\\studentcorewebapi\\studentcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|solutionrelative:studentcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|c:\\users\\nimap\\desktop\\c#\\studentcorewebapi\\studentcorewebapi\\models\\studentsdetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|solutionrelative:studentcorewebapi\\models\\studentsdetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|c:\\users\\nimap\\desktop\\c#\\studentcorewebapi\\studentcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E606E-783C-4F5F-9373-E2E196099E65}|StudentCoreWebApi\\StudentCoreWebApi.csproj|solutionrelative:studentcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentCoreWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\appsettings.json",
+              "RelativeToolTip": "StudentCoreWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T05:40:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCoreWebApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentCoreWebApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:40:09.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsDetailsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Models\\StudentsDetailsContext.cs",
+              "RelativeDocumentMoniker": "StudentCoreWebApi\\Models\\StudentsDetailsContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Models\\StudentsDetailsContext.cs",
+              "RelativeToolTip": "StudentCoreWebApi\\Models\\StudentsDetailsContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:40:03.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "StudentCoreWebApi\\Controllers\\StudentApiController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "StudentCoreWebApi\\Controllers\\StudentApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:34:48.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCoreWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C#\\StudentCoreWebApi\\StudentCoreWebApi\\Program.cs",
+              "RelativeToolTip": "StudentCoreWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T05:41:12.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
